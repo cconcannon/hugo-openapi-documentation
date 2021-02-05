@@ -1,5 +1,11 @@
 # hugo-openapi-documentation
-Generate static documentation from your OpenAPI spec using Hugo's built-in capabilities
+Generate static documentation from your OpenAPI spec using Hugo's built-in capabilities.
+
+This is not a production-ready product, but rather a launchpad from which you can integrate your own OpenAPI-powered reference docs into an existing Hugo documentation website. Here's what the shortcode produces with very minimal css styling applied:
+
+![](/screenshots/hugo-openapi-documentation.png)
+
+**Note: I built this with Hugo v0.80.0. If your Hugo version is older, the shortcode might need to be modified to remove some newer features (in particular, the params passed to `jsonify`)**
 
 ## Introduction
 
