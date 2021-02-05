@@ -9,7 +9,7 @@ This is not a production-ready product, but rather a launchpad from which you ca
 
 ## Introduction
 
-For background info about why I decided to spend time writing this code, [check out my blog post]().
+For background info about why I decided to spend time writing this code, [check out my blog post](https://blog.concannon.tech/tech-talk/hugo-openapi-documentation/).
 
 The TL;DR version is that while Swagger UI is wonderful, it is a slow, bloated solution for many situations. Additionally, Swagger UI doesn't allow customization of the interface. This leads to a poorer user experience because of slower page load times and a fractured aesthetic for your documentation site.
 
